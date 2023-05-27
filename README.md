@@ -1,7 +1,7 @@
-Hola Developers.. I'm just a newbie here. Need your help!😎
+Hola Developers.. I'm a **Front-End Developer**
 
 
-https://github-readme-stats.vercel.app/api?username=eshan-one&show_icons=true&theme=tokyonight
+![Eshan Github Stats](https://github-readme-stats.vercel.app/api?username=eshan-one&show_icons=true&theme=tokyonight)
 
 <!--
 **eshan-one/eshan-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
