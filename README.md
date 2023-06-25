@@ -1,7 +1,7 @@
-Hola Developers.. I'm a **Front-End Developer**
+
 [![eshan-one's GitHub | Stats](https://stats.quine.sh/eshan-one/github?theme=dark)](https://quine.sh)
 
-
+[![eshan-one's GitHub | Topics Over Time](https://stats.quine.sh/eshan-one/topics-over-time?theme=dark)](https://quine.sh)
 
 <!--
 **eshan-one/eshan-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
