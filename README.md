@@ -1,4 +1,6 @@
-# Hello guys, I'm Eshan 
+# Hello guys, I'm Eshan
+## I am a Front-End Developer
+I like building projects using JavaScript 
 
 [![eshan-one's GitHub | Stats](https://stats.quine.sh/eshan-one/github?theme=dark)](https://quine.sh)
 
