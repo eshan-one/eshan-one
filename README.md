@@ -8,19 +8,7 @@
 - Creating visually appealing interfaces that delight users 🎨😃
 - Exploring new frameworks and libraries to improve my skills 📚🔍
 - Contributing to the open-source community and giving back to the web development community 🌐🤝
-
-## Tech Stack 🛠️
-
-Here are the technologies I use to build awesome web applications:
-
-- **Frontend:**
-  - HTML5
-  - CSS3 (with Sass/SCSS)
-  - JavaScript (ES6+)
-  - React.js (for dynamic and interactive UIs)
-  - Redux (for state management)
-  - Bootstrap (for responsive design)
-  - Material-UI (for beautiful UI components)
+  
   
 ## Front End Web Development Technologies I've used  🌐💻
 
