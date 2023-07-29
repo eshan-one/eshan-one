@@ -38,20 +38,8 @@
 
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"> 
 
-
-
-
-
-
-
- 
-
-
-<!--I like building projects using JavaScript 
-
 [![eshan-one's GitHub | Stats](https://stats.quine.sh/eshan-one/github?theme=dark)](https://quine.sh)
 
-[![eshan-one's GitHub | Topics Over Time](https://stats.quine.sh/eshan-one/topics-over-time?theme=dark)](https://quine.sh) >
 
 <!--
 **eshan-one/eshan-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
