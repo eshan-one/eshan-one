@@ -12,7 +12,6 @@
 - Contributing to the open-source community and giving back to the web development community 🌐🤝
 
    
-
  ## My Tech Stack 
 ### ⏩ Programming and Markup Languages 
 
