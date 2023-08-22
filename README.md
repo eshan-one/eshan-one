@@ -1,6 +1,6 @@
 # Eshan Shikarkhane 
 ## 🔴This page is under construction🔴
-## Latest Update - August 20
+## Latest Update - August 21
 
 ## Front End Developer 
  Hi there! I'm Eshan, a passionate Frontend Developer with a keen interest in building responsive and user-friendly websites. My love for web development and design has driven me to create engaging and interactive user experiences. I take pride in writing clean and efficient code while staying up-to-date with the latest web technologies and best practices.
