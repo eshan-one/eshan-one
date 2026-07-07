@@ -1,6 +1,12 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:1f2937&height=200&section=header&text=eshan-one&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Go%20%7C%20Microservices%20%7C%20Applied%20AI%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+
+</div>
+
 ### Hi 👋 I'm Eshan
 
-Fullstack Software Engineer building enterprise banking systems with **MERN** & **Go** — now going deep on **Applied AI Engineering** (LLMs, RAG, Agents, MCP).
+Fullstack Software Engineer building enterprise grade production systems with **MERN** & **Go** — now going deep on **Applied AI Engineering** (LLMs, RAG, Agents, MCP).
 
 - 🏦 Building frontend & backend modules on a Unified Payments Platform serving enterprise banking clients
 - 🐍 Comfortable across **JavaScript/TypeScript, Python & Go**
@@ -8,41 +14,16 @@ Fullstack Software Engineer building enterprise banking systems with **MERN** & 
 - 🎓 VJTI grad
 - ⚡ I like moving fast from concept → working project
 
-```mermaid
-flowchart TD
-    ME(("👨‍💻 Eshan"))
+<div align="center">
 
-    ME --> MERN["🌐 MERN Stack"]
-    ME --> PY["🐍 Python"]
-    ME --> GO["🐹 Go"]
-    ME --> AI["🤖 AI Engineering"]
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,go,docker,git" />
 
-    MERN --> M1["MongoDB"]
-    MERN --> M2["Express.js"]
-    MERN --> M3["React"]
-    MERN --> M4["Node.js"]
+</div>
 
-    PY --> P1["FastAPI"]
-    PY --> P2["Scripting & Automation"]
+<div align="center">
 
-    GO --> G1["Concurrency"]
-    GO --> G2["Microservices"]
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Currently+leveling+up+in+Go+%F0%9F%90%B9;My+second+programming+language+after+JS%2FTS;Concurrency+%C2%B7+Microservices+%C2%B7+Clean+APIs" alt="Typing animation: currently learning Go" />
 
-    AI --> A1["LLM APIs"]
-    AI --> A2["RAG Pipelines"]
-    AI --> A3["Agents & MCP"]
-
-    classDef me fill:#1f2937,stroke:#38bdf8,stroke-width:2px,color:#fff,font-weight:bold;
-    classDef mern fill:#0d3b66,stroke:#38bdf8,color:#fff;
-    classDef py fill:#2b3a1a,stroke:#7ec636,color:#fff;
-    classDef go fill:#062f2f,stroke:#00ADD8,color:#fff;
-    classDef ai fill:#3b0d3b,stroke:#d946ef,color:#fff;
-
-    class ME me;
-    class MERN,M1,M2,M3,M4 mern;
-    class PY,P1,P2 py;
-    class GO,G1,G2 go;
-    class AI,A1,A2,A3 ai;
-```
+</div>
 
 📫 Reach me: eone84424@gmail.com
